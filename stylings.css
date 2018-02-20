@@ -25,15 +25,24 @@ Text-transform:uppercase;
 
 
 
+
+
 }
 #navigation ul li{
   margin-bottom: 80px;
   color:white;
   list-style-type:none;
 
+
 }
+#navigation ul li a:hover {
+    background-color: #922109;
+    color: white;
+  }
 #navigation ul li a {
   text-decoration: none;
+
+
 }
  #box{
    border: 1px solid #922109   ;
@@ -51,8 +60,6 @@ Text-transform:uppercase;
 #navigation
 a:visited {
     color: white;
-
-
 }
 #box1
 {
@@ -82,17 +89,14 @@ a:visited {
 
 }
 #Contact { border: 1px solid green ;
-  position: relative;
-  width: 550px;
+   position: relative;
+   width: 550px;
    height: 250px;
    top: -500px;
    right:-700px;
-
-
-
-  display: flex;
-  align-items: center;
-  justify-content: space-space-around;
+   display: flex;
+   align-items: center;
+   justify-content: space-space-around;
 }
 
 
