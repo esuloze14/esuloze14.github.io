@@ -92,8 +92,8 @@ a:visited {
    position: relative;
    width: 550px;
    height: 250px;
-   top: -500px;
    right:-700px;
+   top: -500px;
    display: flex;
    align-items: center;
    justify-content: space-space-around;
